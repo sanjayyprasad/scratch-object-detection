@@ -19,6 +19,4 @@ It detects objects in real time using a camera and shows the result instantly.
 2. Allow camera access  
 3. Click the green flag  
 
-## Purpose
-Educational and beginner-friendly AI project.
 
